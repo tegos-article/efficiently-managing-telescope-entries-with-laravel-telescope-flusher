@@ -29,5 +29,5 @@ php artisan telescope:flush
 
 ## Learn More
 
-Read the full article: [Efficiently Managing Telescope Entries](#)
+Read the full article: [Efficiently Managing Telescope Entries](https://dev.to/tegos/efficiently-managing-telescope-entries-with-laravel-telescope-flusher-484a)
 
