@@ -2,8 +2,6 @@
 
 ![Laravel Telescope Flusher](assets/poster.jpg)
 
-# Laravel-Telescope-Flusher
-
 ## Overview
 
 [`laravel-telescope-flusher`](https://github.com/tegos/laravel-telescope-flusher) efficiently clears Laravel Telescope
